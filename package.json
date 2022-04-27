@@ -12,7 +12,7 @@
     "apidoc": "^0.17.7",
     "chai": "^4.1.2",
     "expect.js": "^0.3.1",
-    "grunt": "^1.0.4",
+    "grunt": "^1.5.2",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-jshint": "^1.1.0",
     "grunt-contrib-watch": "^1.1.0",
