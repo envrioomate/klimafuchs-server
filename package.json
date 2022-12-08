@@ -41,7 +41,7 @@
     "cors": "^2.8.4",
     "dateformat": "^3.0.3",
     "expo-server-sdk": "^3.1.0",
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "express-force-ssl": "^0.3.2",
     "express-graphql": "^0.6.12",
     "express-handlebars": "^3.0.0",
